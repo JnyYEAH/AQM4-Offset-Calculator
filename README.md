@@ -1,0 +1,1 @@
+This simple application created using Claude runs two formulas based on a DM(District Meter) number to specify what the offset configuration should be. The application specifies what the units are and what the formula is.
